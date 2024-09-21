@@ -15,13 +15,13 @@ func main() {
 	age := 21
 	name := "Daniil"
 	var PI float64 = 3.1415926
-	boolVar := true
+	isVar := true
 	fmt.Print("My name is: " + name + ". I am ")
 	fmt.Println(age)
 	fmt.Print("PI is ")
 	fmt.Println(PI)
-	fmt.Print("boolVar is ")
-	fmt.Println(boolVar)
+	fmt.Print("isVar is ")
+	fmt.Println(isVar)
 	fmt.Println("")
 
 	var a int
